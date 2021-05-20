@@ -12,7 +12,7 @@
 Private Sub Worksheet_SelectionChange(ByVal Target As Range)
     'シート名などを初期設定します
     Dim sh_name_in, sh_name_out, txt_link, rng0 As String
-    sh_name_in = "アンケート"
+    sh_name_in = Me.Name
     sh_name_out = "横一列"
     txt_link = "='" & sh_name_in & "'!"
     rng0 = "A1"
