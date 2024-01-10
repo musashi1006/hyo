@@ -1,5 +1,5 @@
 # hyo
-create_link_with_click.cls概要
+[create_link_with_click.cls](create_link_with_click.cls)概要
 + Excel WorksheetのSelectionChangeイベントプロシージャを利用
 + 該当する（フォームを作っている）シートのシートコードにコードを貼り付け
 + 横一列のリンク行を作りたいシートを準備しておく
